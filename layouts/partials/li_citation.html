@@ -5,7 +5,7 @@
   {{ if eq (site.Params.publications.citation_style | default "apa") "apa" }}
 
 
-    <span class="author_list">{{- .Params.author_list | markdownify -}}</span>
+  <span class="author_list">{{- .Params.author_list | markdownify -}}</span>
     
   ({{- .Date.Format "2006" -}}).
   <a href="{{ .RelPermalink }}">{{ .Title }}</a>.
