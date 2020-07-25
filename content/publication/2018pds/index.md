@@ -1,13 +1,13 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Early adolescents’ unique perspectives of maternal and paternal rejection: Examining their across-dyad generalizability and relations with adjustment 1 year later"
-authors: ["Justin Jager", "Alissa Mahler", "admin", "Diane L Putnick", "Marc H Bornstein", "Jennifer E Lansford", "Kenneth A Dodge", "Ann T Skinner", "Kirby Deater-Deckard"]
-date: 2016-10-01T00:00:00-00:00
-doi: "https://doi.org/10.1007/s10964-016-0509-z"
+title: "Adults’ Conceptualisations of Children’s Social Competence in Nepal and Malawi"
+authors: ["admin", "Natalie D Eggum-Wilkens", "Sophia Chae", "Sarah R Hayford", "Scott T Yabiku", "Jennifer E Glick", "Linlin Zhang"]
+date: 2018-03-01T03:43:55-05:00
+doi: "https://doi.org/10.1177%2F0971333617747345"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2020-07-25T00:36:18-05:00
+publishDate: 2020-07-25T03:43:55-05:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,7 +16,7 @@ publishDate: 2020-07-25T00:36:18-05:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Youth and Adolescence*"
+publication: "*Psychology and Developing Societies*"
 publication_short: ""
 
 abstract: ""
@@ -24,7 +24,7 @@ abstract: ""
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: ["parenting"]
+tags: ["socio-emotional development","culture"]
 categories: []
 featured: false
 
@@ -59,7 +59,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects: []
- 
+
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
