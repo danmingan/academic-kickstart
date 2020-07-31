@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "An exploratory study of Eastern Ugandan adolescents’ descriptions of social withdrawal"
-authors: ["Natalie D Eggum-Wilkens", "Linlin Zhang", "admin"]
+authors: ["Natalie D Eggum-Wilkens", "Linlin Zhang", "Danming An"]
 date: 2018-06-30T04:00:47-05:00
 doi: "https://doi.org/10.1016/j.adolescence.2018.06.011"
 
@@ -16,7 +16,7 @@ publishDate: 2020-07-25T04:00:47-05:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Adolescence*"
+publication: "*Journal of Adolescence, 67*, 153-157"
 publication_short: ""
 
 abstract: ""

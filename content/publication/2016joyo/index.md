@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Early adolescents’ unique perspectives of maternal and paternal rejection: Examining their across-dyad generalizability and relations with adjustment 1 year later"
-authors: ["Justin Jager", "Alissa Mahler", "admin", "Diane L Putnick", "Marc H Bornstein", "Jennifer E Lansford", "Kenneth A Dodge", "Ann T Skinner", "Kirby Deater-Deckard"]
+authors: ["Justin Jager", "Alissa Mahler", "Danming An", "Diane L Putnick", "Marc H Bornstein", "Jennifer E Lansford", "Kenneth A Dodge", "Ann T Skinner", "Kirby Deater-Deckard"]
 date: 2016-10-01T00:00:00-00:00
 doi: "https://doi.org/10.1007/s10964-016-0509-z"
 
@@ -16,7 +16,7 @@ publishDate: 2020-07-25T00:36:18-05:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Youth and Adolescence*"
+publication: "*Journal of Youth and Adolescence, 45*(10), 2108-2124"
 publication_short: ""
 
 abstract: ""

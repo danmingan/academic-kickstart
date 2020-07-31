@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Adults’ Conceptualisations of Children’s Social Competence in Nepal and Malawi"
-authors: ["admin", "Natalie D Eggum-Wilkens", "Sophia Chae", "Sarah R Hayford", "Scott T Yabiku", "Jennifer E Glick", "Linlin Zhang"]
+authors: ["Danming An", "Natalie D Eggum-Wilkens", "Sophia Chae", "Sarah R Hayford", "Scott T Yabiku", "Jennifer E Glick", "Linlin Zhang"]
 date: 2018-03-01T03:43:55-05:00
 doi: "https://doi.org/10.1177%2F0971333617747345"
 
@@ -16,7 +16,7 @@ publishDate: 2020-07-25T03:43:55-05:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Psychology and Developing Societies*"
+publication: "*Psychology and Developing Societies, 30*(1), 81-104"
 publication_short: ""
 
 abstract: ""
