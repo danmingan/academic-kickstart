@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Co-occurrence of and cross-informant agreement on shyness, unsociability, and social avoidance during early adolescence"
-authors: ["Natalie D Eggum‐Wilkens", "Danming An", "Linlin Zhang", "Megan Costa"]
+authors: ["Natalie D Eggum-Wilkens", "Danming An", "Linlin Zhang", "Megan Costa"]
 date: 2020-01-01T04:02:31-05:00
 doi: "https://doi.org/10.1111/sode.12398"
 
