@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Do cultural orientations moderate the relations between Chinese adolescents’ shyness and depressive symptoms? It depends on their academic achievement"
-authors: ["Danming An", "Natalie D Eggum-Wilkens"]
+authors: ["admin", "Natalie D Eggum-Wilkens"]
 date: 2019-01-25T04:02:21-05:00
 doi: "https://doi.org/10.1111/sode.12365"
 
@@ -16,7 +16,7 @@ publishDate: 2020-07-25T04:02:21-05:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Social Development, 28*(4), 908-926 "
+publication: "*Social Development*"
 publication_short: ""
 
 abstract: ""
@@ -24,7 +24,7 @@ abstract: ""
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: ["socio-emotional development","culture"]
+tags: ["socio-emotional development","culture","shyness"]
 categories: []
 featured: false
 

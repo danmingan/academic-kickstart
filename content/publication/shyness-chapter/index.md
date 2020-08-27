@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Shyness in school"
-authors: ["Natalie D Eggum-Wilkens","Linlin Zhang","Danming An","Brandon N Clifford"]
+authors: ["Natalie D Eggum-Wilkens","Linlin Zhang","admin","Brandon N Clifford"]
 date: 2019-07-25T05:28:13-05:00
 doi: ""
 
@@ -24,7 +24,7 @@ abstract: ""
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: []
+tags: ["shyness"]
 categories: []
 featured: false
 

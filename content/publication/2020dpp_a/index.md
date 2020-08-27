@@ -1,13 +1,13 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Adults’ Conceptualisations of Children’s Social Competence in Nepal and Malawi"
-authors: ["admin", "Natalie D Eggum-Wilkens", "Sophia Chae", "Sarah R Hayford", "Scott T Yabiku", "Jennifer E Glick", "Linlin Zhang"]
-date: 2018-03-01T03:43:55-05:00
-doi: "https://doi.org/10.1177%2F0971333617747345"
+title: "Mutual Synergies between Reactive and Active Inhibitory Systems of Temperament in the Development of Children’s Disruptive Behavior: Two Longitudinal Studies"
+authors: ["admin","Grazyna Kochanska"]
+date: 2020-08-08T00:56:23-05:00
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2020-07-25T03:43:55-05:00
+publishDate: 2020-08-08T00:56:23-05:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,7 +16,7 @@ publishDate: 2020-07-25T03:43:55-05:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Psychology and Developing Societies*"
+publication: "(in press). *Development and Psychopathology*"
 publication_short: ""
 
 abstract: ""
@@ -24,7 +24,7 @@ abstract: ""
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: ["socio-emotional development","culture","social competence"]
+tags: ["behavioral inhibition","effortful control","socio-emotional development","temperament"]
 categories: []
 featured: false
 
