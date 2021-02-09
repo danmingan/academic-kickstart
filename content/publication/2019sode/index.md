@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Do cultural orientations moderate the relations between Chinese adolescents’ shyness and depressive symptoms? It depends on their academic achievement"
+title: "Do Cultural Orientations Moderate the Relations between Chinese Adolescents’ Shyness and Depressive Symptoms? It Depends on Their Academic Achievement"
 authors: ["admin", "Natalie D Eggum-Wilkens"]
 date: 2019-01-25T04:02:21-05:00
 doi: "10.1111/sode.12365"

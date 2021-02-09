@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "An exploratory study of Eastern Ugandan adolescents’ descriptions of social withdrawal"
+title: "An Exploratory Study of Eastern Ugandan Adolescents’ Descriptions of Social Withdrawal"
 authors: ["Natalie D Eggum-Wilkens", "Linlin Zhang", "admin"]
 date: 2018-06-30T04:00:47-05:00
 doi: "10.1016/j.adolescence.2018.06.011"

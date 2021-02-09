@@ -1,13 +1,13 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Co-Occurrence of and Cross-Informant Agreement on Shyness, Unsociability, and Social Avoidance during Early Adolescence"
-authors: ["Natalie D Eggum-Wilkens", "admin", "Linlin Zhang", "Megan Costa"]
-date: 2020-01-01T04:02:31-05:00
-doi: "10.1111/sode.12398"
+title: "Ugandan Adolescents’ Attitudes Toward, and Shared Activities with, Same- and Other-Gender Peers and Friends"
+authors: ["Flora Farago", "Jingyi Xu", "Natalie D. Eggum-Wilkens", "Linlin Zhang", "admin", "Eunjung Kim", "Emily Adams"]
+date: 2021-02-08T21:37:00-06:00
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2020-07-25T04:02:31-05:00
+publishDate: 2021-02-08T21:37:00-06:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,15 +16,15 @@ publishDate: 2020-07-25T04:02:31-05:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Social Development*"
+publication: "Youth & Society"
 publication_short: ""
 
-abstract: "We investigated the co‐occurrence of and cross‐informant agreement on early adolescents’ shyness, unsociability, and avoidance measured by self‐ and peer reports for fifth to eighth graders (N = 383; 51% male) in the United States. Avoidance was significantly and positively associated with shyness and unsociability based on peer reports and self‐reports. Furthermore, 45% and 30% of peer‐ and self‐reported withdrawn adolescents had multiple motivations for withdrawal, suggesting prevalent co‐occurrence of withdrawal subtypes. Cross‐informant agreement was moderate for shyness and weak for unsociability and avoidance. We draw attention to the complexity of motivations underlying withdrawal, theorize about subtype co‐occurrence, and discuss challenges and opportunities related to peer‐reported unsociability and avoidance."
+abstract: ""
 
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: ["socio-emotional development","measurement"]
+tags: []
 categories: []
 featured: false
 
@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://www.researchgate.net/publication/334663948_Co-occurrence_of_and_Cross-informant_Agreement_on_Shyness_Unsociability_and_Social_Avoidance_during_Early_Adolescence
+url_pdf:
 url_code:
 url_dataset:
 url_poster:

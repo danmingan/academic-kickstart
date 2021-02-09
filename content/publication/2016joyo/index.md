@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Early adolescents’ unique perspectives of maternal and paternal rejection: Examining their across-dyad generalizability and relations with adjustment 1 year later"
+title: "Early Adolescents’ Unique Perspectives of Maternal and Paternal Rejection: Examining Their Across-Dyad Generalizability and Relations with Adjustment 1 Year Later"
 authors: ["Justin Jager", "Alissa Mahler", "admin", "Diane L Putnick", "Marc H Bornstein", "Jennifer E Lansford", "Kenneth A Dodge", "Ann T Skinner", "Kirby Deater-Deckard"]
 date: 2016-10-01T00:00:00-00:00
 doi: "10.1007/s10964-016-0509-z"
