@@ -4,7 +4,7 @@
 title: "Do cultural orientations moderate the relations between Chinese adolescents’ shyness and depressive symptoms? It depends on their academic achievement"
 authors: ["admin", "Natalie D Eggum-Wilkens"]
 date: 2019-01-25T04:02:21-05:00
-doi: "https://doi.org/10.1111/sode.12365"
+doi: "10.1111/sode.12365"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2020-07-25T04:02:21-05:00
@@ -19,7 +19,7 @@ publication_types: ["2"]
 publication: "*Social Development*"
 publication_short: ""
 
-abstract: ""
+abstract: "We examined the moderating roles of individualistic and collectivistic cultural orientations and academic achievement on the relation between Chinese adolescents’ shyness and depressive symptoms. A sample of Chinese adolescents (N = 492) from an urban school participated in the study during seventh (T1) and eighth (T2) grades. Adolescents self‐reported their shyness, cultural orientations, and depressive symptoms. The school provided records of their academic achievement. Concurrently, shyness and individualism were positively whereas collectivism and academic achievement were negatively, associated with adolescents’ depressive symptoms. Longitudinally, T1 shyness (but not individualism, collectivism, or academic achievement) predicted T2 depressive symptoms after controlling for stability in depressive symptoms. Concurrent relations between shyness and depressive symptoms were moderated by adolescents’ cultural orientations. Specifically, collectivism was protective whereas individualism was harmful, for shy adolescents’ adjustment. Furthermore, collectivism and academic achievement jointly moderated the relations between shyness and depressive symptoms concurrently and longitudinally. The results suggest that cultural orientations may influence shy adolescents’ depression symptoms through individual‐level self‐evaluation, and indicate that cultural factors and academic achievement need to be considered comprehensively for understanding and improving shy Chinese adolescents’ psychological adjustment."
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
+url_pdf: https://www.researchgate.net/publication/330694368_Do_Cultural_Orientations_Moderate_the_Relation_between_Chinese_Adolescents'_Shyness_and_Depressive_Symptoms_It_Depends_on_Their_Academic_Achievement
 url_code:
 url_dataset:
 url_poster:

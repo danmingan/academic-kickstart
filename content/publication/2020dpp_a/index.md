@@ -4,7 +4,7 @@
 title: "Mutual Synergies between Reactive and Active Inhibitory Systems of Temperament in the Development of Children’s Disruptive Behavior: Two Longitudinal Studies"
 authors: ["admin","Grazyna Kochanska"]
 date: 2020-08-08T00:56:23-05:00
-doi: ""
+doi: "10.1017/S0954579420001534"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2020-08-08T00:56:23-05:00
@@ -16,10 +16,10 @@ publishDate: 2020-08-08T00:56:23-05:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "(in press). *Development and Psychopathology*"
+publication: "*Development and Psychopathology*"
 publication_short: ""
 
-abstract: ""
+abstract: "Individual differences in two inhibitory temperament systems have been implicated as key in the development of early disruptive behaviors. The reactive inhibition system, behavioral inhibition (BI) entails fearfulness, shyness, timidity, and caution. The active inhibition system, or effortful control (EC) entails a capacity to deliberately suppress, modify, or regulate a predominant behavior. Lower scores in each system have been associated with more disruptive behaviors. We examined how the two systems interact, and whether one can alleviate or exacerbate risks due to the other. In two community samples (Study 1, N = 112, ages 2.5 to 4, and Study 2, N = 102, ages 2 to 6.5), we assessed early BI and EC, and future disruptive behaviors (observed disregard for rules in Study 1 and parent-rated externalizing problems in Study 2). Robustly replicated interactions revealed that for children with low BI (relatively fearless), better EC was associated with less disruptive behavior; for children with low EC, more BI was associated with less disruptive behavior. This research extends the investigation of temperament x temperament interactions in developmental psychology and psychopathology, and it suggests that reactive and active inhibition systems may play mutually compensatory roles. Those effects emerged after age 2."
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
+url_pdf: https://www.researchgate.net/publication/347522870_Mutual_Synergies_between_Reactive_and_Active_Inhibitory_Systems_of_Temperament_in_the_Development_of_Children's_Disruptive_Behavior_Two_Longitudinal_Studies
 url_code:
 url_dataset:
 url_poster:

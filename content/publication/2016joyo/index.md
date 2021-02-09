@@ -4,7 +4,7 @@
 title: "Early adolescents’ unique perspectives of maternal and paternal rejection: Examining their across-dyad generalizability and relations with adjustment 1 year later"
 authors: ["Justin Jager", "Alissa Mahler", "admin", "Diane L Putnick", "Marc H Bornstein", "Jennifer E Lansford", "Kenneth A Dodge", "Ann T Skinner", "Kirby Deater-Deckard"]
 date: 2016-10-01T00:00:00-00:00
-doi: "https://doi.org/10.1007/s10964-016-0509-z"
+doi: "10.1007/s10964-016-0509-z"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2020-07-25T00:36:18-05:00
@@ -19,7 +19,9 @@ publication_types: ["2"]
 publication: "*Journal of Youth and Adolescence*"
 publication_short: ""
 
-abstract: ""
+abstract: "Parental rejection is linked to deep and enduring adjustment problems during adolescence. This study aims to further clarify this relation by demonstrating what has long been posited by parental acceptance/rejection theory but never validated empirically—namely that adolescents’ unique or subjective experience of parental rejection independently informs their future adjustment. Among a longitudinal, multi-informant sample of 161 families (early adolescents were 47 % female and 40 % European American) this study utilized a multitrait–multimethod confirmatory factor analysis to isolate for each early adolescent–parent dyad, the adolescent’s distinct view of parental rejection (i.e., the adolescent unique perspective) from the portion of his or her view that overlaps with his or her parent’s view. The findings indicated that adolescents’ unique perspectives of maternal rejection were not differentiated from their unique perspectives of paternal rejection. Also, consistent with parental acceptance–rejection theory, early adolescents’ unique perspectives of parental rejection were associated with worse adjustment (internalizing and externalizing) 1 year later. This study further demonstrates the utility and validity of the multitrait–multimethod confirmatory factor analysis approach for identifying and examining adolescent unique perspectives. Both conceptually and analytically, this study also integrates research focused on unique perspectives with a distinct but related line of research focused on discrepancies in perspectives.
+
+A"
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -36,7 +38,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
+url_pdf: https://www.researchgate.net/publication/303806699_Early_Adolescents'_Unique_Perspectives_of_Maternal_and_Paternal_Rejection_Examining_Their_Across-Dyad_Generalizability_and_Relations_with_Adjustment_1_Year_Later
 url_code:
 url_dataset:
 url_poster:

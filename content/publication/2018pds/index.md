@@ -4,7 +4,7 @@
 title: "Adults’ Conceptualisations of Children’s Social Competence in Nepal and Malawi"
 authors: ["admin", "Natalie D Eggum-Wilkens", "Sophia Chae", "Sarah R Hayford", "Scott T Yabiku", "Jennifer E Glick", "Linlin Zhang"]
 date: 2018-03-01T03:43:55-05:00
-doi: "https://doi.org/10.1177%2F0971333617747345"
+doi: "10.1177%2F0971333617747345"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2020-07-25T03:43:55-05:00
@@ -19,7 +19,8 @@ publication_types: ["2"]
 publication: "*Psychology and Developing Societies*"
 publication_short: ""
 
-abstract: ""
+abstract: "
+Adults in Nepal (N = 14) and Malawi (N = 12) were interviewed about their views regarding social competence of 5- to 17-year-old children in their societies. Both Nepali and Malawian adults discussed themes consistent with those expected in collectivistic societies with economic challenges (e.g., respect and obedience, family responsibilities, and social relationships). There were also unique themes emphasised in each country, which may correspond with country-specific religious beliefs or social problems (e.g., rules and self-control, and sexual restraint). Results provide novel information regarding adults’ perceptions of children’s social competence in Nepal and Malawi, and may help guide the development of measures of social competence."
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -36,7 +37,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
+url_pdf: https://www.researchgate.net/publication/322794577_Adults'_Conceptualisations_of_Children's_Social_Competence_in_Nepal_and_Malawi
 url_code:
 url_dataset:
 url_poster:
