@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Ugandan Adolescents’ Attitudes Toward, and Shared Activities with, Same- and Other-Gender Peers and Friends"
+title: "Ugandan Adolescents’ Attitudes toward, and Shared Activities with, Same- and Other-Gender Peers and Friends"
 authors: ["Flora Farago", "Jingyi Xu", "Natalie D. Eggum-Wilkens", "Linlin Zhang", "admin", "Eunjung Kim", "Emily Adams"]
 date: 2021-02-08T21:37:00-06:00
 doi: ""
@@ -16,7 +16,7 @@ publishDate: 2021-02-08T21:37:00-06:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Youth & Society"
+publication: "*Youth & Society*"
 publication_short: ""
 
 abstract: ""
