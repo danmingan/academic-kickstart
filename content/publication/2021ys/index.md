@@ -4,7 +4,7 @@
 title: "Ugandan Adolescents’ Attitudes toward, and Shared Activities with, Same- and Other-Gender Peers and Friends"
 authors: ["Flora Farago", "Jingyi Xu", "Natalie D. Eggum-Wilkens", "Linlin Zhang", "admin", "Eunjung Kim", "Emily Adams"]
 date: 2021-02-08T21:37:00-06:00
-doi: ""
+doi: "10.1177/0044118X21998717"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2021-02-08T21:37:00-06:00
@@ -19,12 +19,12 @@ publication_types: ["2"]
 publication: "*Youth & Society*"
 publication_short: ""
 
-abstract: ""
+abstract: "Ugandan adolescents (n = 202, 54% girls; Mage = 14.26) answered closed- and open-ended questions about the gender composition of friends and attitudes about, and activities with, same- and other-gender peers and friends. Adolescents’ friendships were somewhat gender segregated, although other-gender friendships were present. Positive attitudes about same- and other-gender peers and friends were prevalent. Girls and boys displayed similar attitudes about same- and other-gender peers, with the exception of boys reporting more positive attitudes toward boys. Adolescents enjoyed the following aspects of same- and other-gender friendships: talking about problems, receiving help, sharing items and activities, receiving advice about romance and puberty, and receiving help with schoolwork. Adolescents engaged with mixed-gender peers for most shared activities, although gender segregation was present for certain activities (e.g., playing sports). Results may inform programs that support positive peer interactions among youth in sub-Saharan Africa."
 
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: []
+tags: ["peers","culture","gender"]
 categories: []
 featured: false
 
@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
+url_pdf:https://www.researchgate.net/publication/349952569_Ugandan_Adolescents'_Attitudes_Toward_and_Shared_Activities_with_Same-_and_Other-Gender_Peers_and_Friends
 url_code:
 url_dataset:
 url_poster:
