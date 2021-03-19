@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:https://www.researchgate.net/publication/349952569_Ugandan_Adolescents'_Attitudes_Toward_and_Shared_Activities_with_Same-_and_Other-Gender_Peers_and_Friends
+url_pdf: https://www.researchgate.net/publication/349952569_Ugandan_Adolescents'_Attitudes_Toward_and_Shared_Activities_with_Same-_and_Other-Gender_Peers_and_Friends
 url_code:
 url_dataset:
 url_poster:
