@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Children’s Emerging Receptive, Positive Orientation toward Their Parents in the Network of Early Attachment Relationships"
-authors: ["admin", "Grazyna Kochanska", "Nicole C. Yeager", "Neevetha M. Sivagurunathan", "Rochelle L. Praska", "Robin J. Campbell", "Sung Yi Shin"]
+authors: ["admin", "Grazyna Kochanska", "Nicole C Yeager", "Neevetha M Sivagurunathan", "Rochelle L Praska", "Robin J Campbell", "Sung Yi Shin"]
 date: 2021-03-18T19:53:54-05:00
 doi: ""
 
