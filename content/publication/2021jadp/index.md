@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Situation-Specific Shyness among Chinese Adolescents: Measurement and Associations with Adjustment"
-authors: ["Danming An", "Natalie D Eggum-Wilkens"]
+authors: ["admin", "Natalie D Eggum-Wilkens"]
 date: 2021-03-30T22:07:08-05:00
 doi: ""
 
