@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Ugandan Adolescents’ Attitudes toward, and Shared Activities with, Same- and Other-Gender Peers and Friends"
-authors: ["Flora Farago", "Jingyi Xu", "Natalie D. Eggum-Wilkens", "Linlin Zhang", "admin", "Eunjung Kim", "Emily Adams"]
+authors: ["Flora Farago", "Jingyi Xu", "Natalie D Eggum-Wilkens", "Linlin Zhang", "admin", "Eunjung Kim", "Emily Adams"]
 date: 2021-02-08T21:37:00-06:00
 doi: "10.1177/0044118X21998717"
 

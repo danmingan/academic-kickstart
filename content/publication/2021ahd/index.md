@@ -4,7 +4,7 @@
 title: "Children’s Emerging Receptive, Positive Orientation toward Their Parents in the Network of Early Attachment Relationships"
 authors: ["admin", "Grazyna Kochanska", "Nicole C Yeager", "Neevetha M Sivagurunathan", "Rochelle L Praska", "Robin J Campbell", "Sung Yi Shin"]
 date: 2021-03-18T19:53:54-05:00
-doi: ""
+doi: "10.1080/14616734.2021.1906722"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2021-03-18T19:53:54-05:00
