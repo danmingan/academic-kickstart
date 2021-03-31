@@ -16,7 +16,7 @@ publishDate: 2021-03-30T22:07:08-05:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Applied Developmental Psychology"
+publication: "(in press). *Journal of Applied Developmental Psychology*"
 publication_short: ""
 
 abstract: ""
