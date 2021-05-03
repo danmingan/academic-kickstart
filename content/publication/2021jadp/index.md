@@ -4,7 +4,7 @@
 title: "Situation-Specific Shyness among Chinese Adolescents: Measurement and Associations with Adjustment"
 authors: ["admin", "Natalie D Eggum-Wilkens"]
 date: 2021-03-30T22:07:08-05:00
-doi: ""
+doi: "10.1016/j.appdev.2021.101278"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2021-03-30T22:07:08-05:00
@@ -19,12 +19,12 @@ publication_types: ["2"]
 publication: "(in press). *Journal of Applied Developmental Psychology*"
 publication_short: ""
 
-abstract: ""
+abstract: "We systematically examined situation-specific shyness in adolescence and inspected the relations between situation-specific shyness and multiple aspects of adjustment. Adolescents (N = 492) from an urban school in China participated in the study during 7th (T1) and 8th (T2) grades. Adolescents self-reported their situation-specific shyness using a new measure of hypothetical scenarios, and their general shyness and internalizing problems. Peers reported adolescents’ popularity and peer rejection. The school provided the adolescents’ academic records. Factor analyses supported a three-factor structure of situation-specific shyness: shyness with familiar peers, shyness with unfamiliar peers, and shyness in formal situations. Shyness with familiar peers predicted maladjustment in multiple domains, especially academic and peer difficulties. Shyness with unfamiliar peers and shyness in formal situations, by contrast, primarily were associated with internalizing problems, and occasionally were related to positive adjustment. Our findings supported the importance of considering the situation in which shyness occurs when developing intervention programs."
 
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: []
+tags: ["shyness","situational variations","internalizing problems","peer relationships","academic achievement"]
 categories: []
 featured: false
 
@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
+url_pdf:https://www.researchgate.net/publication/351113445_Situation-Specific_Shyness_among_Chinese_Adolescents_Measurement_and_Associations_with_Adjustment
 url_code:
 url_dataset:
 url_poster:
