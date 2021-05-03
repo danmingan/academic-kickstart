@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:https://www.researchgate.net/publication/351113445_Situation-Specific_Shyness_among_Chinese_Adolescents_Measurement_and_Associations_with_Adjustment
+url_pdf: https://www.researchgate.net/publication/351113445_Situation-Specific_Shyness_among_Chinese_Adolescents_Measurement_and_Associations_with_Adjustment
 url_code:
 url_dataset:
 url_poster:

@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:https://www.researchgate.net/publication/350670545_Children's_Emerging_Receptive_Positive_Orientation_toward_Their_Parents_in_the_Network_of_Early_Attachment_Relationships
+url_pdf: https://www.researchgate.net/publication/350670545_Children's_Emerging_Receptive_Positive_Orientation_toward_Their_Parents_in_the_Network_of_Early_Attachment_Relationships
 url_code:
 url_dataset:
 url_poster:
