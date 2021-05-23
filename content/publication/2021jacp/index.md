@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Theory of Mind as a Mechanism That Accounts for the Continuity or Discontinuity of Behavioral Inhibition: A Developmentally Informed Model of Risk for Social Anxiety"
-authors: ["admin,"Grazyna Kochanska"]
+authors: ["admin","Grazyna Kochanska"]
 date: 2021-05-23T00:19:42-05:00
 doi: "10.1007/s10802-021-00831-y"
 
