@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
+url_pdf: https://link.springer.com/epdf/10.1007/s10802-021-00831-y?sharing_token=31t9eWZo3V1BiSoAmdSvpPe4RwlQNchNByi7wbcMAY4HuyZtf_EttFXmb155VXx63vfsDvFWZ7OMzPloR9w4LQ2zUCVKmioeWDgugDg0BiglPjsNfmJbHmpZcXVCJE_1cFrNd5WDQx18xicMnRmsA19KGAXSCiSaRC3z27eC5vI%3D
 url_code:
 url_dataset:
 url_poster:
