@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
+url_pdf: https://www.researchgate.net/publication/353045533_Withdrawn_and_Acting_out_Early_Adolescents'_Social_Avoidance_and_Externalizing_Problems
 url_code:
 url_dataset:
 url_poster:

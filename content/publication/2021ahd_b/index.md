@@ -4,7 +4,7 @@
 title: "Parent-Child Relationship and Child Anger Proneness in Infancy and Attachment Security at Toddler Age: A Short-Term Longitudinal Study of Mother- and Father-Child Dyads"
 authors: ["Lilly C Bendel-Stenzel","admin","Grazyna Kochanska"]
 date: 2021-08-15T00:23:54-05:00
-doi: ""
+doi: "10.1080/14616734.2021.1976399"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2021-08-27T00:23:54-05:00
@@ -16,7 +16,7 @@ publishDate: 2021-08-27T00:23:54-05:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Attachment & Human Development* (in press)"
+publication: "*Attachment & Human Development*"
 publication_short: ""
 
 abstract: ""
