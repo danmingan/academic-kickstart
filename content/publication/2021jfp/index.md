@@ -4,7 +4,7 @@
 title: "Mothers’ and Fathers’ Attachment Styles and Power-Assertive Control: Indirect Associations through Parental Representations"
 authors: ["admin","Grazyna Kochanska"]
 date: 2021-09-20T23:48:15-05:00
-doi: ""
+doi: "10.1037/fam0000930"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2021-09-20T23:48:15-05:00
@@ -16,7 +16,7 @@ publishDate: 2021-09-20T23:48:15-05:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "(in press) *Journal of Family Psychology*"
+publication: "*Journal of Family Psychology*"
 publication_short: ""
 
 abstract: "Research on adults’ self-reported attachment styles, investigated mostly in social and personality psychology, has rarely been bridged with research on parenting, studied mostly in developmental psychology. We proposed that parents’ attachment insecurity (avoidance and anxiety) has an indirect association with their power-assertive control, mediated through their negative representations, or Internal Working Models (IWM) of the child. In 200 community families from a Midwestern state (mothers, fathers, and children), we collected multi-method, parallel data for mother- and father-child relationships. When children were infants, parents completed self-reports of their own attachment styles. When children were toddlers, we assessed parents’ IWMs of the child in an interview and observed parental power-assertive control in structured, naturalistic discipline contexts in the laboratory. Mothers’ avoidance showed a unique association with their IWM of their child. Consequently, there was an indirect association from the mother’s avoidance to negative IWM to power-assertive control. Mothers’ anxiety was associated directly with more power-assertive control. Fathers’ avoidance and anxiety were also associated with their IWMs, but there were no unique associations, and the impact on parenting was limited. Forging a rapprochement between social and personality research on adults’ attachment and developmental research on parenting, this work elucidates a potential mechanism of the intergenerational transmission of adaptive and maladaptive parenting in families."
@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
+url_pdf: https://www.researchgate.net/publication/355642693_Mothers'_and_fathers'_attachment_styles_and_power-assertive_control_Indirect_associations_through_parental_representations
 url_code:
 url_dataset:
 url_poster:
