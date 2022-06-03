@@ -36,8 +36,8 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
-url_code:
+url_pdf: https://onlinelibrary.wiley.com/doi/epdf/10.1111/jopy.12711
+url_code: https://osf.io/fvkbh/
 url_dataset:
 url_poster:
 url_project:
