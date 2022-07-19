@@ -4,7 +4,7 @@
 title: "Shyness in school"
 authors: ["Natalie D Eggum-Wilkens","Linlin Zhang","admin","Brandon N Clifford"]
 date: 2019-07-25T05:28:13-05:00
-doi: ""
+doi: "10.4324/9781138609877-REE44-1"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2020-07-25T05:28:13-05:00
@@ -16,7 +16,7 @@ publishDate: 2020-07-25T05:28:13-05:00
 publication_types: ["6"]
 
 # Publication name and optional abbreviated publication name.
-publication: "(in press). *Routledge Encyclopedia of Education*"
+publication: "*Routledge Encyclopedia of Education*"
 publication_short: ""
 
 abstract: ""
